@@ -1,0 +1,10 @@
+cat > requirements.txt <<EOF
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+bayesian-optimization
+joblib
+EOF
